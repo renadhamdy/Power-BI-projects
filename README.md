@@ -10,25 +10,43 @@ offer some promos.
 File Structure:_
 
 CustomerID: Unique customer ID
+
 Churn Churn: Flag
+
 Tenure: Tenure of customer in organization
+
 PreferredLoginDevice: Preferred login device of customer
-CityTier City tier
-WarehouseToHome: Distance in between warehouse to home 
-of customer
+
+CityTier: City tier
+
+WarehouseToHome: Distance in between warehouse to home of customer
+
 PreferredPaymentMode: Preferred payment method of customer
+
 Gender: Gender of customer
+
 HourSpendOnApp: Number of hours spend on mobile application or website
+
 NumberOfDeviceRegistered: Total number of deceives is registered on particular customer
+
 PreferedOrderCat: Preferred order category of customer in last month
+
 SatisfactionScore: Satisfactory score of customer on service
+
 MaritalStatus: Marital status of customer
+
 NumberOfAddress:Total number of added added on 
+
 particular customer: Complain Any complaint has been raised in last month
+
 OrderAmountHikeFromlastYear: Percentage increases in order from last year
+
 CouponUsed: Total number of coupon has been used in last month
+
 OrderCount: Total number of orders has been places in last month
+
 DaySinceLastOrder: Day Since last order by customer
+
 CashbackAmount: Average cashback in last month
 
 
@@ -57,14 +75,41 @@ after finishing the previous steps i started to gnerate the required dashboards:
 #EDA dashboard
 ![EDA dasboard](https://user-images.githubusercontent.com/92961262/230742882-d3fe3273-0843-404a-a679-9b1c751d9419.PNG)
 
+
+
 #days since last order and gender infographics
 ![days since last order](https://user-images.githubusercontent.com/92961262/230742970-04e1cb5c-a331-4500-a778-66d70a6f0c62.PNG)
 
+
+
 #Churn indicators
-![churn indicators](https://user-images.githubusercontent.com/92961262/230743044-323da5b0-abc2-4efd-a5ce-d86a469b4660.PNG)
+![new churn indicators](https://user-images.githubusercontent.com/92961262/230743981-af8443ea-c347-49f8-a3cd-6b6257c3772d.PNG)
+
+
+
 
 #Complains 
 ![image](https://user-images.githubusercontent.com/92961262/230743062-cc5bc831-6929-404c-bf4a-f31598dd3bdf.png)
+
+
+
+Explanation:
+what does these dashboards tell us?
+ 
+ well, lets start with the first one:_
+ -total number of customers = 17k
+ -total number of churned customers = 2844
+ -total number of not churned customers = 14k
+ -the majority of customers are male and married customers.
+ -customers prefer logging on with pc more than the mobile phone.
+ -debit card is the preferd payment methods for our customers.
+ -the most demanding products are laptops and accessory.
+ -number of customers by each tenure.
+ 
+ 
+ 
+ -
+ 
 
 
 
