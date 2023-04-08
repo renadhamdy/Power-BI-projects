@@ -95,15 +95,32 @@ after finishing the previous steps i started to gnerate the required dashboards:
 
 Explanation:
 what does these dashboards tell us?
+
  
  well, lets start with the first one:_
+ 
+ 
  -total number of customers = 17k
+ 
+ 
  -total number of churned customers = 2844
+ 
+ 
  -total number of not churned customers = 14k
+ 
+ 
  -the majority of customers are male and married customers.
+ 
+ 
  -customers prefer logging on with pc more than the mobile phone.
+ 
+ 
  -debit card is the preferd payment methods for our customers.
+ 
+ 
  -the most demanding products are laptops and accessory.
+ 
+ 
  -number of customers by each tenure.
  
  
