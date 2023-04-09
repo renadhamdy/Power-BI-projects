@@ -73,7 +73,7 @@ max days since last order = MAX('E Commerce Dataset'[DaySinceLastOrder])
 
 
 
-+after finishing the previous steps i started to gnerate the required dashboards:_
+.after finishing the previous steps i started to gnerate the required dashboards:_
 
 
 
@@ -118,13 +118,13 @@ max days since last order = MAX('E Commerce Dataset'[DaySinceLastOrder])
  #Recommendations based on the information above:_
  
  
- +as we have the majority of our customers from male customers, we have to provide more male related products on our online store to keep the current male customers and attract more customers.
+ .as we have the majority of our customers from male customers, we have to provide more male related products on our online store to keep the current male customers and attract more customers.
  
  
- +as the prefered login device is phones not PCs we have to make sure that the user experience with PCs not that bad and modify it if needed.
+ .as the prefered login device is phones not PCs we have to make sure that the user experience with PCs not that bad and modify it if needed.
  
  
- +facilitate other payment methods.
+ .facilitate other payment methods.
  
 
  
