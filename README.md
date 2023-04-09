@@ -70,34 +70,26 @@ churn rate = ('E Commerce Dataset'[number of churns]/'E Commerce Dataset'[#of cu
 -maximum number of days since last order:
 max days since last order = MAX('E Commerce Dataset'[DaySinceLastOrder])
 
-after finishing the previous steps i started to gnerate the required dashboards:_
+
+
+
++after finishing the previous steps i started to gnerate the required dashboards:_
+
+
 
 #EDA dashboard
-![EDA dasboard](https://user-images.githubusercontent.com/92961262/230742882-d3fe3273-0843-404a-a679-9b1c751d9419.PNG)
 
 
-
-#days since last order and gender infographics
-![days since last order](https://user-images.githubusercontent.com/92961262/230742970-04e1cb5c-a331-4500-a778-66d70a6f0c62.PNG)
+![EDA dashboard new](https://user-images.githubusercontent.com/92961262/230744992-58412ecb-4670-4056-bcfd-64f02ddb858d.PNG)
 
 
-
-#Churn indicators
-![new churn indicators](https://user-images.githubusercontent.com/92961262/230743981-af8443ea-c347-49f8-a3cd-6b6257c3772d.PNG)
+**Explanation:**
 
 
-
-
-#Complains 
-![image](https://user-images.githubusercontent.com/92961262/230743062-cc5bc831-6929-404c-bf4a-f31598dd3bdf.png)
-
-
-
-Explanation:
-what does these dashboards tell us?
+#what does these dashboards tell us?
 
  
- well, lets start with the first one:_
+ ##well, lets start with the first one:_
  
  
  -total number of customers = 17k
@@ -118,14 +110,121 @@ what does these dashboards tell us?
  -debit card is the preferd payment methods for our customers.
  
  
- -the most demanding products are laptops and accessory.
+ -the most demanding products are phones.
  
  
  -number of customers by each tenure.
  
+ #Recommendations based on the information above:_
+ 
+ 
+ +as we have the majority of our customers from male customers, we have to provide more male related products on our online store to keep the current male customers and attract more customers.
+ 
+ 
+ +as the prefered login device is phones not PCs we have to make sure that the user experience with PCs not that bad and modify it if needed.
+ 
+ 
+ +facilitate other payment methods.
+ 
+
+ 
+ #days since last order and gender infographics
+ 
+ 
+![days since last order](https://user-images.githubusercontent.com/92961262/230742970-04e1cb5c-a331-4500-a778-66d70a6f0c62.PNG)
+ 
+ 
+ -the maximum days since last order = 46 days.
+ 
+ 
+ -total number of males and females.
+ 
+ 
+ -prefered items for both genders.
+ 
+ 
+ -prefed payment methods for both genders.
+ 
+ 
+ -number of customers and the days since last order they placed.
+ 
+ 
+ -total number of orders for both genders and as mentioned above that we have more male customers than females, but the female customers we have are placing orders close to the number of male orders.
+ 
+ 
+ -prefered login device for both genders.
+ 
+ 
+ 
+ 
+#Churn indicators
+
+
+![new churn indicators](https://user-images.githubusercontent.com/92961262/230743981-af8443ea-c347-49f8-a3cd-6b6257c3772d.PNG)
+
+**Explanation**
+ 
+ -total number of customers by city tier.
+ 
+ 
+ -total number of churned and non churned customers.
+ 
+ 
+ -average tenure for all customers.
+ 
+ 
+ -churn rate.
+ 
+ 
+ -number of customers by satisfaction score, satisfaction score if very important metric to track it is an indicator for the customers tending to churn.
+ 
+ 
+ -churn rate by number of addresses, we can notice that more number of addresses the more the customer tend to churn hence this is also a very important metric to track.
+ 
+ 
+ 
+ 
+ #Complains 
+ 
+ 
+![image](https://user-images.githubusercontent.com/92961262/230743062-cc5bc831-6929-404c-bf4a-f31598dd3bdf.png)
+ 
+ 
+ **Explanation**
+ 
+ -total number of complains
+ 
+ 
+ -number of customers by each order hike
+ 
+ 
+ -number of customers by the number of times of using coupons
+ 
+ 
+ -number of complains for each warehouse to home distance
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
  
  
  -
+ 
+ 
+ 
+ 
+ 
+ 
  
 
 
