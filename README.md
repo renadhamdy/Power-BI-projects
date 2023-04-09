@@ -1,4 +1,6 @@
-customer churn analysis 
+customer churn analysis:_
+
+churn problem considered as losing customers as they stop using the services provided by the business, specially e-commerce platforms.
 The churn rate is an important metric for e-commerce businesses because it can significantly impact their revenue and profitability. High churn rates can indicate issues 
 with customer service, product quality, or pricing. To combat churn, e-commerce businesses often implement retention strategies, such as targeted marketing campaigns,loyalty programs, and personalized recommendations, to keep customers engaged and satisfied.
 
@@ -79,8 +81,7 @@ max days since last order = MAX('E Commerce Dataset'[DaySinceLastOrder])
 
 #EDA dashboard
 
-
-![EDA dashboard new](https://user-images.githubusercontent.com/92961262/230744992-58412ecb-4670-4056-bcfd-64f02ddb858d.PNG)
+![image](https://user-images.githubusercontent.com/92961262/230753260-48db7fc0-57e4-463b-9541-8cf97f715c91.png)
 
 
 **Explanation:**
@@ -131,7 +132,8 @@ max days since last order = MAX('E Commerce Dataset'[DaySinceLastOrder])
  #days since last order and gender infographics
  
  
-![days since last order](https://user-images.githubusercontent.com/92961262/230742970-04e1cb5c-a331-4500-a778-66d70a6f0c62.PNG)
+![image](https://user-images.githubusercontent.com/92961262/230753281-ad09730d-31e4-4587-95f4-e6d2071a00ec.png)
+
  
  
  -the maximum days since last order = 46 days.
@@ -160,7 +162,8 @@ max days since last order = MAX('E Commerce Dataset'[DaySinceLastOrder])
 #Churn indicators
 
 
-![new churn indicators](https://user-images.githubusercontent.com/92961262/230743981-af8443ea-c347-49f8-a3cd-6b6257c3772d.PNG)
+![image](https://user-images.githubusercontent.com/92961262/230753293-33ecdb5d-c772-4027-839b-75a65edc1ad3.png)
+
 
 **Explanation**
  
@@ -187,7 +190,8 @@ max days since last order = MAX('E Commerce Dataset'[DaySinceLastOrder])
  #Complains 
  
  
-![image](https://user-images.githubusercontent.com/92961262/230743062-cc5bc831-6929-404c-bf4a-f31598dd3bdf.png)
+ ![image](https://user-images.githubusercontent.com/92961262/230753313-f621f670-9073-4581-bdba-2086690e1a8b.png)
+
  
  
  **Explanation**
